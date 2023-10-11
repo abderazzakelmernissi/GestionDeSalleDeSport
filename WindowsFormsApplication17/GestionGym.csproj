@@ -1,0 +1,472 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{AE5D48BD-96B2-4E68-B472-9DC8CE762FF8}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>WindowsFormsApplication17</RootNamespace>
+    <AssemblyName>Gym Managmenr</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <TargetFrameworkProfile />
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <PublishUrl>\\Mac\Home\Desktop\Apps\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Unc</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <TargetCulture>fr-FR</TargetCulture>
+    <PublisherName>Mouiti &amp; ELMERNISSI</PublisherName>
+    <CreateWebPageOnPublish>true</CreateWebPageOnPublish>
+    <WebPage>publish.htm</WebPage>
+    <ApplicationRevision>8</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <CreateDesktopShortcut>true</CreateDesktopShortcut>
+    <PublishWizardCompleted>true</PublishWizardCompleted>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestCertificateThumbprint>AB34362BC6DA2864E20DD2C6D1B9658D744ECEB3</ManifestCertificateThumbprint>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestKeyFile>GestionGym_TemporaryKey.pfx</ManifestKeyFile>
+  </PropertyGroup>
+  <PropertyGroup>
+    <GenerateManifests>true</GenerateManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <TargetZone>LocalIntranet</TargetZone>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationManifest>Properties\app.manifest</ApplicationManifest>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignManifests>true</SignManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>1148861_846892028670540_2069906532_n_copy_RJI_icon.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="CrystalDecisions.CrystalReports.Engine, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.ReportSource, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.Shared, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.Windows.Forms, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="FlashControlV71, Version=1.0.3187.32366, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="Microsoft.VisualBasic" />
+    <Reference Include="Microsoft.VisualBasic.PowerPacks.Vs, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.Linq" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="WebCam_Capture">
+      <HintPath>..\..\..\..\..\Desktop\New folder\WebCam_Capture.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="BL\Auter.cs" />
+    <Compile Include="BL\Class_Entraineur1.cs" />
+    <Compile Include="BL\Class_Event.cs" />
+    <Compile Include="BL\Class_Member.cs" />
+    <Compile Include="BL\C_LOGIN.cs" />
+    <Compile Include="BL\MemberShip.cs" />
+    <Compile Include="DAL\DataAccesLayer.cs" />
+    <Compile Include="PL\BackupBD.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PL\BackupBD.Designer.cs">
+      <DependentUpon>BackupBD.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PL\RestoreBD.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PL\RestoreBD.Designer.cs">
+      <DependentUpon>RestoreBD.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PL\Add Staff.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PL\Add Staff.Designer.cs">
+      <DependentUpon>Add Staff.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PL\AddGroup.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PL\AddGroup.Designer.cs">
+      <DependentUpon>AddGroup.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PL\AddMember.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PL\AddMember.Designer.cs">
+      <DependentUpon>AddMember.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PL\AddTrainer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PL\AddTrainer.Designer.cs">
+      <DependentUpon>AddTrainer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PL\Archive.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PL\Archive.Designer.cs">
+      <DependentUpon>Archive.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PL\Entraineur.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PL\Entraineur.Designer.cs">
+      <DependentUpon>Entraineur.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PL\Event.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PL\Event.Designer.cs">
+      <DependentUpon>Event.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PL\Home.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PL\Home.Designer.cs">
+      <DependentUpon>Home.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PL\Paiment.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PL\Paiment.Designer.cs">
+      <DependentUpon>Paiment.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PL\Incom.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PL\Incom.Designer.cs">
+      <DependentUpon>Incom.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PL\login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PL\login.Designer.cs">
+      <DependentUpon>login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PL\members1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PL\members1.Designer.cs">
+      <DependentUpon>members1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PL\Months.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PL\Months.Designer.cs">
+      <DependentUpon>Months.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PL\SendEmail.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PL\SendEmail.Designer.cs">
+      <DependentUpon>SendEmail.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PL\SMS.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PL\SMS.Designer.cs">
+      <DependentUpon>SMS.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Print\AllMember.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>AllMember.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Print\Form_Print.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Print\Form_Print.Designer.cs">
+      <DependentUpon>Form_Print.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Print\PintAllMember.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>PintAllMember.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Print\Print_Member.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Print_Member.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="PL\Staff.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PL\Staff.Designer.cs">
+      <DependentUpon>Staff.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PL\WebCam.cs" />
+    <EmbeddedResource Include="PL\Add Staff.resx">
+      <DependentUpon>Add Staff.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PL\AddGroup.resx">
+      <DependentUpon>AddGroup.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PL\AddMember.resx">
+      <DependentUpon>AddMember.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PL\AddTrainer.resx">
+      <DependentUpon>AddTrainer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PL\Archive.resx">
+      <DependentUpon>Archive.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PL\BackupBD.resx">
+      <DependentUpon>BackupBD.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PL\Entraineur.resx">
+      <DependentUpon>Entraineur.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PL\Event.resx">
+      <DependentUpon>Event.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PL\Home.resx">
+      <DependentUpon>Home.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PL\Paiment.resx">
+      <DependentUpon>Paiment.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PL\Incom.resx">
+      <DependentUpon>Incom.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PL\login.resx">
+      <DependentUpon>login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PL\members1.resx">
+      <DependentUpon>members1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PL\Months.resx">
+      <DependentUpon>Months.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PL\RestoreBD.resx">
+      <DependentUpon>RestoreBD.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PL\SendEmail.resx">
+      <DependentUpon>SendEmail.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PL\SMS.resx">
+      <DependentUpon>SMS.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Print\AllMember.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>AllMember.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Print\Form_Print.resx">
+      <DependentUpon>Form_Print.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Print\PintAllMember.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>PintAllMember.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Print\Print_Member.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>Print_Member.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="PL\Staff.resx">
+      <DependentUpon>Staff.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="GestionGym_TemporaryKey.pfx" />
+    <None Include="Properties\app.manifest" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Maximize Window-52.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Maximize Window-48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Minimize Window-48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\customers_customer_user_male-512.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\customers_customer_user_male-128.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\trainer-128.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\groups-10-128.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\calendar-128.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Engineer.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\boss_portrait-128.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\boss_portrait-256.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\search.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\arrow-upload-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\arrow-upload-icon1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\arrow-upload-icon %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Capture.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Capture1.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\print-printer-icone-3887-96.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\print.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Save.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Capture2.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icon-128px-add-friends-group-people-plus-users-icon-search-engine-157347.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\win10-home-icon-01.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\home.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\delete.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\delete %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\delete %282%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\male-user-edit.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\dark_turquoise_windows_8_bubbles_background_by_gifteddeviant-d4wkifd.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Capture3.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\training_center_icon2_200px %282%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\accueil-batiment-rempli_318-73171.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{C0C07587-41A7-46C8-8FBD-3F9C8EBE2DDC}" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="1148861_846892028670540_2069906532_n_copy_RJI_icon.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.5">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.5 %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="SAP.CrystalReports14.NET.2.0">
+      <Visible>False</Visible>
+      <ProductName>SAP Crystal Reports Runtime Engine for .NET Framework</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

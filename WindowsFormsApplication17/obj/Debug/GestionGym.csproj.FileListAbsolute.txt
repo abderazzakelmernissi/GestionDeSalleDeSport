@@ -1,0 +1,121 @@
+\\Mac\Home\Desktop\WiormsApplication17\WindowsFormsApplication17\bin\Debug\WindowsFormsApplication17.exe.config
+\\Mac\Home\Desktop\WiormsApplication17\WindowsFormsApplication17\bin\Debug\WindowsFormsApplication17.exe
+\\Mac\Home\Desktop\WiormsApplication17\WindowsFormsApplication17\bin\Debug\WindowsFormsApplication17.pdb
+\\Mac\Home\Desktop\WiormsApplication17\WindowsFormsApplication17\obj\Debug\WindowsFormsApplication17.Add_Staff.resources
+\\Mac\Home\Desktop\WiormsApplication17\WindowsFormsApplication17\obj\Debug\WindowsFormsApplication17.AddGroup.resources
+\\Mac\Home\Desktop\WiormsApplication17\WindowsFormsApplication17\obj\Debug\WindowsFormsApplication17.AddMember.resources
+\\Mac\Home\Desktop\WiormsApplication17\WindowsFormsApplication17\obj\Debug\WindowsFormsApplication17.AddTrainor.resources
+\\Mac\Home\Desktop\WiormsApplication17\WindowsFormsApplication17\obj\Debug\WindowsFormsApplication17.Entraineur.resources
+\\Mac\Home\Desktop\WiormsApplication17\WindowsFormsApplication17\obj\Debug\WindowsFormsApplication17.Form1.resources
+\\Mac\Home\Desktop\WiormsApplication17\WindowsFormsApplication17\obj\Debug\WindowsFormsApplication17.Groupes.resources
+\\Mac\Home\Desktop\WiormsApplication17\WindowsFormsApplication17\obj\Debug\WindowsFormsApplication17.login.resources
+\\Mac\Home\Desktop\WiormsApplication17\WindowsFormsApplication17\obj\Debug\WindowsFormsApplication17.members1.resources
+\\Mac\Home\Desktop\WiormsApplication17\WindowsFormsApplication17\obj\Debug\WindowsFormsApplication17.PL.Months.resources
+\\Mac\Home\Desktop\WiormsApplication17\WindowsFormsApplication17\obj\Debug\WindowsFormsApplication17.Properties.Resources.resources
+\\Mac\Home\Desktop\WiormsApplication17\WindowsFormsApplication17\obj\Debug\WindowsFormsApplication17.Staff.resources
+\\Mac\Home\Desktop\WiormsApplication17\WindowsFormsApplication17\obj\Debug\GestionGym.csproj.GenerateResource.Cache
+\\Mac\Home\Desktop\WiormsApplication17\WindowsFormsApplication17\obj\Debug\WindowsFormsApplication17.exe
+\\Mac\Home\Desktop\WiormsApplication17\WindowsFormsApplication17\obj\Debug\WindowsFormsApplication17.pdb
+\\Mac\Home\Desktop\WiormsApplication17\WindowsFormsApplication17\obj\Debug\GestionGym.csprojResolveAssemblyReference.cache
+\\Mac\Home\Desktop\WiormsApplication17\WindowsFormsApplication17\obj\Debug\WindowsFormsApplication17.PL.Incom.resources
+\\Mac\Home\Desktop\WiormsApplication17\WindowsFormsApplication17\obj\Debug\WindowsFormsApplication17.PL.Event.resources
+\\Mac\Home\Desktop\WiormsApplication17\WindowsFormsApplication17\obj\Debug\WindowsFormsApplication17.Print.Form_Print.resources
+\\Mac\Home\Desktop\WiormsApplication17\WindowsFormsApplication17\obj\Debug\WindowsFormsApplication17.PL.SendEmail.resources
+\\Mac\Home\Desktop\WiormsApplication17\WindowsFormsApplication17\obj\Debug\WindowsFormsApplication17.PL.SMS.resources
+\\Mac\Home\Desktop\WiormsApplication17\WindowsFormsApplication17\obj\Debug\WindowsFormsApplication17.PL.Archive.resources
+C:\Users\ahmedpc\Desktop\WiormsApplication17 - Copie\WindowsFormsApplication17\bin\Debug\WindowsFormsApplication17.exe.config
+C:\Users\ahmedpc\Desktop\WiormsApplication17 - Copie\WindowsFormsApplication17\obj\Debug\WindowsFormsApplication17.exe
+C:\Users\ahmedpc\Desktop\WiormsApplication17 - Copie\WindowsFormsApplication17\obj\Debug\WindowsFormsApplication17.pdb
+C:\Users\ahmedpc\Desktop\WiormsApplication17 - Copie\WindowsFormsApplication17\bin\Debug\WindowsFormsApplication17.exe
+C:\Users\ahmedpc\Desktop\WiormsApplication17 - Copie\WindowsFormsApplication17\bin\Debug\WindowsFormsApplication17.pdb
+C:\Users\ahmedpc\Desktop\WiormsApplication17 - Copie\WindowsFormsApplication17\obj\Debug\GestionGym.csprojResolveAssemblyReference.cache
+C:\Users\ahmedpc\Desktop\WiormsApplication17 - Copie\WindowsFormsApplication17\obj\Debug\WindowsFormsApplication17.Add_Staff.resources
+C:\Users\ahmedpc\Desktop\WiormsApplication17 - Copie\WindowsFormsApplication17\obj\Debug\WindowsFormsApplication17.AddGroup.resources
+C:\Users\ahmedpc\Desktop\WiormsApplication17 - Copie\WindowsFormsApplication17\obj\Debug\WindowsFormsApplication17.AddMember.resources
+C:\Users\ahmedpc\Desktop\WiormsApplication17 - Copie\WindowsFormsApplication17\obj\Debug\WindowsFormsApplication17.AddTrainor.resources
+C:\Users\ahmedpc\Desktop\WiormsApplication17 - Copie\WindowsFormsApplication17\obj\Debug\WindowsFormsApplication17.PL.Archive.resources
+C:\Users\ahmedpc\Desktop\WiormsApplication17 - Copie\WindowsFormsApplication17\obj\Debug\WindowsFormsApplication17.Entraineur.resources
+C:\Users\ahmedpc\Desktop\WiormsApplication17 - Copie\WindowsFormsApplication17\obj\Debug\WindowsFormsApplication17.PL.Event.resources
+C:\Users\ahmedpc\Desktop\WiormsApplication17 - Copie\WindowsFormsApplication17\obj\Debug\WindowsFormsApplication17.Form1.resources
+C:\Users\ahmedpc\Desktop\WiormsApplication17 - Copie\WindowsFormsApplication17\obj\Debug\WindowsFormsApplication17.Groupes.resources
+C:\Users\ahmedpc\Desktop\WiormsApplication17 - Copie\WindowsFormsApplication17\obj\Debug\WindowsFormsApplication17.PL.Incom.resources
+C:\Users\ahmedpc\Desktop\WiormsApplication17 - Copie\WindowsFormsApplication17\obj\Debug\WindowsFormsApplication17.login.resources
+C:\Users\ahmedpc\Desktop\WiormsApplication17 - Copie\WindowsFormsApplication17\obj\Debug\WindowsFormsApplication17.members1.resources
+C:\Users\ahmedpc\Desktop\WiormsApplication17 - Copie\WindowsFormsApplication17\obj\Debug\WindowsFormsApplication17.PL.Months.resources
+C:\Users\ahmedpc\Desktop\WiormsApplication17 - Copie\WindowsFormsApplication17\obj\Debug\WindowsFormsApplication17.PL.SendEmail.resources
+C:\Users\ahmedpc\Desktop\WiormsApplication17 - Copie\WindowsFormsApplication17\obj\Debug\WindowsFormsApplication17.PL.SMS.resources
+C:\Users\ahmedpc\Desktop\WiormsApplication17 - Copie\WindowsFormsApplication17\obj\Debug\WindowsFormsApplication17.Print.Form_Print.resources
+C:\Users\ahmedpc\Desktop\WiormsApplication17 - Copie\WindowsFormsApplication17\obj\Debug\WindowsFormsApplication17.Properties.Resources.resources
+C:\Users\ahmedpc\Desktop\WiormsApplication17 - Copie\WindowsFormsApplication17\obj\Debug\WindowsFormsApplication17.Staff.resources
+C:\Users\ahmedpc\Desktop\WiormsApplication17 - Copie\WindowsFormsApplication17\obj\Debug\GestionGym.csproj.GenerateResource.Cache
+C:\Users\ahmedpc\Desktop\WiormsApplication17 - Copie\WindowsFormsApplication17\bin\Debug\wDB\Database1.mdf
+C:\Users\ahmedpc\Desktop\WiormsApplication17 - Copie\WindowsFormsApplication17\bin\Debug\wDB\Database1_log.ldf
+C:\Users\ahmedpc\Desktop\WiormsApplication17 - Copie\WindowsFormsApplication17\obj\Debug\WindowsFormsApplication17.exe.licenses
+C:\Users\ahmedpc\Desktop\WiormsApplication17 - Copie\WindowsFormsApplication17\obj\Debug\WindowsFormsApplication17.PL.BackupBD.resources
+C:\Users\ahmedpc\Desktop\WiormsApplication17 - Copie\WindowsFormsApplication17\obj\Debug\WindowsFormsApplication17.PL.RestoreBD.resources
+\\Mac\Home\Desktop\prjetmouiti\WiormsApplication17 - Copie\WindowsFormsApplication17\obj\Debug\GestionGym.csprojResolveAssemblyReference.cache
+\\Mac\Home\Desktop\prjetmouiti\WiormsApplication17 - Copie\WindowsFormsApplication17\obj\Debug\WindowsFormsApplication17.Add_Staff.resources
+\\Mac\Home\Desktop\prjetmouiti\WiormsApplication17 - Copie\WindowsFormsApplication17\obj\Debug\WindowsFormsApplication17.AddGroup.resources
+\\Mac\Home\Desktop\prjetmouiti\WiormsApplication17 - Copie\WindowsFormsApplication17\obj\Debug\WindowsFormsApplication17.AddMember.resources
+\\Mac\Home\Desktop\prjetmouiti\WiormsApplication17 - Copie\WindowsFormsApplication17\obj\Debug\WindowsFormsApplication17.AddTrainor.resources
+\\Mac\Home\Desktop\prjetmouiti\WiormsApplication17 - Copie\WindowsFormsApplication17\obj\Debug\WindowsFormsApplication17.PL.Archive.resources
+\\Mac\Home\Desktop\prjetmouiti\WiormsApplication17 - Copie\WindowsFormsApplication17\obj\Debug\WindowsFormsApplication17.PL.BackupBD.resources
+\\Mac\Home\Desktop\prjetmouiti\WiormsApplication17 - Copie\WindowsFormsApplication17\obj\Debug\WindowsFormsApplication17.Entraineur.resources
+\\Mac\Home\Desktop\prjetmouiti\WiormsApplication17 - Copie\WindowsFormsApplication17\obj\Debug\WindowsFormsApplication17.PL.Event.resources
+\\Mac\Home\Desktop\prjetmouiti\WiormsApplication17 - Copie\WindowsFormsApplication17\obj\Debug\WindowsFormsApplication17.Form1.resources
+\\Mac\Home\Desktop\prjetmouiti\WiormsApplication17 - Copie\WindowsFormsApplication17\obj\Debug\WindowsFormsApplication17.Groupes.resources
+\\Mac\Home\Desktop\prjetmouiti\WiormsApplication17 - Copie\WindowsFormsApplication17\obj\Debug\WindowsFormsApplication17.PL.Incom.resources
+\\Mac\Home\Desktop\prjetmouiti\WiormsApplication17 - Copie\WindowsFormsApplication17\obj\Debug\WindowsFormsApplication17.login.resources
+\\Mac\Home\Desktop\prjetmouiti\WiormsApplication17 - Copie\WindowsFormsApplication17\obj\Debug\WindowsFormsApplication17.members1.resources
+\\Mac\Home\Desktop\prjetmouiti\WiormsApplication17 - Copie\WindowsFormsApplication17\obj\Debug\WindowsFormsApplication17.PL.Months.resources
+\\Mac\Home\Desktop\prjetmouiti\WiormsApplication17 - Copie\WindowsFormsApplication17\obj\Debug\WindowsFormsApplication17.PL.RestoreBD.resources
+\\Mac\Home\Desktop\prjetmouiti\WiormsApplication17 - Copie\WindowsFormsApplication17\obj\Debug\WindowsFormsApplication17.PL.SendEmail.resources
+\\Mac\Home\Desktop\prjetmouiti\WiormsApplication17 - Copie\WindowsFormsApplication17\obj\Debug\WindowsFormsApplication17.PL.SMS.resources
+\\Mac\Home\Desktop\prjetmouiti\WiormsApplication17 - Copie\WindowsFormsApplication17\obj\Debug\WindowsFormsApplication17.Print.Form_Print.resources
+\\Mac\Home\Desktop\prjetmouiti\WiormsApplication17 - Copie\WindowsFormsApplication17\obj\Debug\WindowsFormsApplication17.Properties.Resources.resources
+\\Mac\Home\Desktop\prjetmouiti\WiormsApplication17 - Copie\WindowsFormsApplication17\obj\Debug\WindowsFormsApplication17.Staff.resources
+\\Mac\Home\Desktop\prjetmouiti\WiormsApplication17 - Copie\WindowsFormsApplication17\obj\Debug\GestionGym.csproj.GenerateResource.Cache
+\\Mac\Home\Desktop\prjetmouiti\WiormsApplication17 - Copie\WindowsFormsApplication17\bin\Debug\Data\Database1.mdf
+\\Mac\Home\Desktop\prjetmouiti\WiormsApplication17 - Copie\WindowsFormsApplication17\bin\Debug\Data\Database1_log.ldf
+\\Mac\Home\Desktop\prjetmouiti\WiormsApplication17 - Copie\WindowsFormsApplication17\bin\Debug\Gym Managmenr.exe.config
+\\Mac\Home\Desktop\prjetmouiti\WiormsApplication17 - Copie\WindowsFormsApplication17\bin\Debug\Gym Managmenr.exe.manifest
+\\Mac\Home\Desktop\prjetmouiti\WiormsApplication17 - Copie\WindowsFormsApplication17\bin\Debug\Gym Managmenr.application
+\\Mac\Home\Desktop\prjetmouiti\WiormsApplication17 - Copie\WindowsFormsApplication17\bin\Debug\Gym Managmenr.exe
+\\Mac\Home\Desktop\prjetmouiti\WiormsApplication17 - Copie\WindowsFormsApplication17\bin\Debug\Gym Managmenr.pdb
+\\Mac\Home\Desktop\prjetmouiti\WiormsApplication17 - Copie\WindowsFormsApplication17\obj\Debug\Gym Managmenr.TrustInfo.xml
+\\Mac\Home\Desktop\prjetmouiti\WiormsApplication17 - Copie\WindowsFormsApplication17\obj\Debug\Gym Managmenr.exe.manifest
+\\Mac\Home\Desktop\prjetmouiti\WiormsApplication17 - Copie\WindowsFormsApplication17\obj\Debug\Gym Managmenr.application
+\\Mac\Home\Desktop\prjetmouiti\WiormsApplication17 - Copie\WindowsFormsApplication17\obj\Debug\Gym Managmenr.exe
+\\Mac\Home\Desktop\prjetmouiti\WiormsApplication17 - Copie\WindowsFormsApplication17\obj\Debug\Gym Managmenr.pdb
+\\Mac\Home\Desktop\prjetmouiti\Wio\WindowsFormsApplication17\bin\Debug\Gym Managmenr.exe.config
+\\Mac\Home\Desktop\prjetmouiti\Wio\WindowsFormsApplication17\obj\Debug\Gym Managmenr.exe
+\\Mac\Home\Desktop\prjetmouiti\Wio\WindowsFormsApplication17\obj\Debug\Gym Managmenr.pdb
+\\Mac\Home\Desktop\prjetmouiti\Wio\WindowsFormsApplication17\obj\Debug\WindowsFormsApplication17.Add_Staff.resources
+\\Mac\Home\Desktop\prjetmouiti\Wio\WindowsFormsApplication17\obj\Debug\WindowsFormsApplication17.AddGroup.resources
+\\Mac\Home\Desktop\prjetmouiti\Wio\WindowsFormsApplication17\obj\Debug\WindowsFormsApplication17.AddMember.resources
+\\Mac\Home\Desktop\prjetmouiti\Wio\WindowsFormsApplication17\obj\Debug\WindowsFormsApplication17.AddTrainor.resources
+\\Mac\Home\Desktop\prjetmouiti\Wio\WindowsFormsApplication17\obj\Debug\WindowsFormsApplication17.PL.Archive.resources
+\\Mac\Home\Desktop\prjetmouiti\Wio\WindowsFormsApplication17\obj\Debug\WindowsFormsApplication17.PL.BackupBD.resources
+\\Mac\Home\Desktop\prjetmouiti\Wio\WindowsFormsApplication17\obj\Debug\WindowsFormsApplication17.Entraineur.resources
+\\Mac\Home\Desktop\prjetmouiti\Wio\WindowsFormsApplication17\obj\Debug\WindowsFormsApplication17.PL.Event.resources
+\\Mac\Home\Desktop\prjetmouiti\Wio\WindowsFormsApplication17\obj\Debug\WindowsFormsApplication17.Form1.resources
+\\Mac\Home\Desktop\prjetmouiti\Wio\WindowsFormsApplication17\obj\Debug\WindowsFormsApplication17.Groupes.resources
+\\Mac\Home\Desktop\prjetmouiti\Wio\WindowsFormsApplication17\obj\Debug\WindowsFormsApplication17.PL.Incom.resources
+\\Mac\Home\Desktop\prjetmouiti\Wio\WindowsFormsApplication17\obj\Debug\WindowsFormsApplication17.login.resources
+\\Mac\Home\Desktop\prjetmouiti\Wio\WindowsFormsApplication17\obj\Debug\WindowsFormsApplication17.members1.resources
+\\Mac\Home\Desktop\prjetmouiti\Wio\WindowsFormsApplication17\obj\Debug\WindowsFormsApplication17.PL.Months.resources
+\\Mac\Home\Desktop\prjetmouiti\Wio\WindowsFormsApplication17\obj\Debug\WindowsFormsApplication17.PL.RestoreBD.resources
+\\Mac\Home\Desktop\prjetmouiti\Wio\WindowsFormsApplication17\obj\Debug\WindowsFormsApplication17.PL.SendEmail.resources
+\\Mac\Home\Desktop\prjetmouiti\Wio\WindowsFormsApplication17\obj\Debug\WindowsFormsApplication17.PL.SMS.resources
+\\Mac\Home\Desktop\prjetmouiti\Wio\WindowsFormsApplication17\obj\Debug\WindowsFormsApplication17.Print.Form_Print.resources
+\\Mac\Home\Desktop\prjetmouiti\Wio\WindowsFormsApplication17\obj\Debug\WindowsFormsApplication17.Staff.resources
+\\Mac\Home\Desktop\prjetmouiti\Wio\WindowsFormsApplication17\obj\Debug\GestionGym.csproj.GenerateResource.Cache
+\\Mac\Home\Desktop\prjetmouiti\Wio\WindowsFormsApplication17\bin\Debug\Gym Managmenr.exe.manifest
+\\Mac\Home\Desktop\prjetmouiti\Wio\WindowsFormsApplication17\bin\Debug\Gym Managmenr.application
+\\Mac\Home\Desktop\prjetmouiti\Wio\WindowsFormsApplication17\bin\Debug\Gym Managmenr.exe
+\\Mac\Home\Desktop\prjetmouiti\Wio\WindowsFormsApplication17\bin\Debug\Gym Managmenr.pdb
+\\Mac\Home\Desktop\prjetmouiti\Wio\WindowsFormsApplication17\obj\Debug\WindowsFormsApplication17.Properties.Resources.resources
+\\Mac\Home\Desktop\prjetmouiti\Wio\WindowsFormsApplication17\obj\Debug\Gym Managmenr.TrustInfo.xml
+\\Mac\Home\Desktop\prjetmouiti\Wio\WindowsFormsApplication17\obj\Debug\Gym Managmenr.exe.manifest
+\\Mac\Home\Desktop\prjetmouiti\Wio\WindowsFormsApplication17\obj\Debug\Gym Managmenr.application
+\\Mac\Home\Desktop\prjetmouiti\Wio\WindowsFormsApplication17\obj\Debug\GestionGym.csprojResolveAssemblyReference.cache
